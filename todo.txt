@@ -1,0 +1,4 @@
+1. Add UI (Use Gosu)
+2. Finish Game (Currently only one player can play lol)
+3. Add styles, different snakes and ladder combinations
+4. Add AI??
